@@ -1,4 +1,4 @@
-# 🧠 Open Cognitive Alliance (OCA)
+# 🧠 Own-Cognitive-Alliance (OCA)
 
 > *"Intelligence should be a human right, not a corporate subscription."*
 
@@ -14,7 +14,7 @@ In 2026, human cognition is increasingly held hostage by a centralized monopoly:
 ---
 
 ## ⚡ Our Mission
-The **Open Cognitive Alliance (OCA)** unites hardware engineers, AI researchers, privacy activists, and policymakers to build an ecosystem where:
+The **Own-Cognitive-Alliance (OCA)** unites hardware engineers, AI researchers, privacy activists, and policymakers to build an ecosystem where:
 
 1. **Cognitive Independence** is guaranteed: Every person owns their AI, running locally on their device.
 2. **Absolute Privacy** is the default: User data never leaves the local hardware.
@@ -23,7 +23,7 @@ The **Open Cognitive Alliance (OCA)** unites hardware engineers, AI researchers,
 
 ---
 
-## 🛡️ The Open Independence Standard
+## 🛡️ The Own-Cognitive-Alliance Standard
 We are defining the global standard for what constitutes a truly "Independent AI Device". Any hardware or software earning the **OCA Certified** badge must guarantee:
 
 - ✅ **Open Architecture** (e.g., RISC-V or equivalent open silicon)
@@ -73,4 +73,4 @@ Sign our digital manifesto and spread the word. The future of human thought must
 **🔓 The future is not in the cloud.**  
 **The future is every human owning a sovereign, independent mind.**
 
-*© 2026 Open Cognitive Alliance. Documentation licensed under CC BY-SA 4.0.*
+*© 2026 Own-Cognitive-Alliance. Documentation licensed under CC BY-SA 4.0.*
